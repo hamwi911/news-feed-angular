@@ -1,1 +1,50 @@
-<p>main-news-feed-content works!</p>
+<div class="main-news">
+  <app-loader *ngIf="isWorkingComp" class="loader"></app-loader>
+  <div *ngIf="!isWorkingComp && !isAllFeeds" class="avatar">
+    <img [src]="data?.avatar" alt="">
+  </div>
+  <div *ngIf="!isWorkingComp && !isAllFeeds" class="main-content">
+    <span class="title">{{data?.newsFeed?.length}} recent activity of {{data?.fullName}}</span>
+    <div class="feeds">
+      <div class="item" *ngFor="let item of data?.newsFeed">
+        <div class="add-friend" *ngIf="item?.type === 'like'">{{data?.fullName}} likes <img [src]="item?.post?.avatar"
+                                                                                            alt=""> {{item?.post?.owner}}
+          ' post
+        </div>
+        <div class="add-friend" *ngIf="item?.type === 'upload'">{{data?.fullName}} upload a new photo
+          <div class="show-pic">show pic
+            <img [src]="item?.uploadImage" alt=""></div>
+        </div>
+        <div class="add-friend" *ngIf="item.type === 'add'">{{data?.fullName}} and
+          <div class="friend">{{item?.friend?.fullName}}
+            <img [src]="item?.friend?.avatar" alt=""></div>
+          now are friends
+        </div>
+        <strong>Activity date is {{item?.date | convertDate}}</strong>
+      </div>
+    </div>
+  </div>
+  <div *ngIf="!isWorkingComp && isAllFeeds" class="main-content">
+    <span class="title">All recent activity</span>
+    <div class="feeds">
+      <ng-container *ngFor="let item of allFeed">
+        <div class="item" *ngFor="let feed of item?.newsFeed">
+          <div class="add-friend" *ngIf="feed?.type === 'like'">{{item?.fullName}} likes <img [src]="feed?.post?.avatar"
+                                                                                              alt=""> {{feed?.post?.owner}}
+            ' post
+          </div>
+          <div class="add-friend" *ngIf="feed?.type === 'upload'">{{item?.fullName}} upload a new photo
+            <div class="show-pic">show pic
+              <img [src]="feed?.uploadImage" alt=""></div>
+          </div>
+          <div class="add-friend" *ngIf="feed.type === 'add'">{{item?.fullName}} and
+            <div class="friend">{{feed?.friend?.fullName}}
+              <img [src]="feed?.friend?.avatar" alt=""></div>
+            now are friends
+          </div>
+          <strong>Activity date is {{feed?.date | convertDate}}</strong>
+        </div>
+      </ng-container>
+    </div>
+  </div>
+</div>

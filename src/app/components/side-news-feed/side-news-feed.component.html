@@ -1,1 +1,15 @@
-<p>side-news-feed works!</p>
+<div class="sidebar-content">
+  <app-loader *ngIf="isWorkingComp" class="loader"></app-loader>
+  <i class="material-icons"
+     (click)="toggleSideMenu()">close</i>
+  <span class="title">Your friends</span>
+  <div class="item" (click)="toggleSideMenu()" *ngFor="let item of data" [routerLink]="['/news/' + item?.id]">
+    <div class="img">
+      <img [src]="item?.avatar" alt="">
+    </div>
+    <div class="content">
+      <strong class="name">{{item.fullName}}</strong>
+      <span class="add-date">connected {{item.connected | convertDate}}</span>
+    </div>
+  </div>
+</div>
