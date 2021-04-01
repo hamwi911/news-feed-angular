@@ -1,0 +1,1205 @@
+{
+  "friends": [
+    {
+      "id": 1,
+      "fullName": "Joyce Leannon Sr.",
+      "connected": "2020-11-16T01:20:07.278Z",
+      "avatar": "https://cdn.fakercloud.com/avatars/kevka_128.jpg",
+      "newsFeed": [
+        {
+          "id": 3,
+          "type": "like",
+          "date": "2020-09-10T14:29:38.725Z",
+          "postTitle": "e-tailers"
+        },
+        {
+          "id": 6,
+          "type": "like",
+          "date": "2020-12-01T18:05:27.756Z",
+          "postTitle": "composite"
+        },
+        {
+          "id": 7,
+          "type": "add",
+          "date": "2020-08-27T21:04:23.769Z",
+          "friend": "Joseph Lebsack DDS"
+        },
+        {
+          "id": 9,
+          "type": "like",
+          "date": "2020-06-27T06:43:43.157Z",
+          "postTitle": "Buckinghamshire"
+        },
+        {
+          "id": 11,
+          "type": "upload",
+          "date": "2021-03-16T03:31:10.623Z",
+          "uploadImage": "http://placeimg.com/640/480/city"
+        },
+        {
+          "id": 12,
+          "type": "like",
+          "date": "2021-01-06T21:41:23.965Z",
+          "postTitle": "Maryland"
+        },
+        {
+          "id": 14,
+          "type": "add",
+          "date": "2021-02-25T06:16:35.052Z",
+          "friend": "Omar Stanton"
+        },
+        {
+          "id": 15,
+          "type": "like",
+          "date": "2020-08-10T04:12:37.471Z",
+          "postTitle": "indexing"
+        },
+        {
+          "id": 18,
+          "type": "like",
+          "date": "2021-02-01T01:17:46.399Z",
+          "postTitle": "HDD"
+        },
+        {
+          "id": 21,
+          "type": "add",
+          "date": "2020-12-12T02:06:56.657Z",
+          "friend": "Norma Labadie"
+        },
+        {
+          "id": 21,
+          "type": "like",
+          "date": "2020-04-03T14:19:49.947Z",
+          "postTitle": "Internal"
+        },
+        {
+          "id": 22,
+          "type": "upload",
+          "date": "2021-01-09T21:33:11.154Z",
+          "uploadImage": "http://placeimg.com/640/480/city"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "fullName": "Marcella Kemmer",
+      "connected": "2020-05-19T07:01:26.450Z",
+      "avatar": "https://cdn.fakercloud.com/avatars/demersdesigns_128.jpg",
+      "newsFeed": [
+        {
+          "id": 3,
+          "type": "like",
+          "date": "2021-01-16T23:33:47.415Z",
+          "postTitle": "portal"
+        },
+        {
+          "id": 6,
+          "type": "like",
+          "date": "2020-10-11T23:52:03.179Z",
+          "postTitle": "Down-sized"
+        },
+        {
+          "id": 7,
+          "type": "add",
+          "date": "2020-09-02T01:12:15.546Z",
+          "friend": "Arlene O'Reilly"
+        },
+        {
+          "id": 9,
+          "type": "like",
+          "date": "2021-01-16T10:02:38.899Z",
+          "postTitle": "generate"
+        },
+        {
+          "id": 11,
+          "type": "upload",
+          "date": "2020-07-19T01:56:45.140Z",
+          "uploadImage": "http://placeimg.com/640/480/city"
+        },
+        {
+          "id": 12,
+          "type": "like",
+          "date": "2020-04-12T02:47:44.911Z",
+          "postTitle": "deposit"
+        },
+        {
+          "id": 14,
+          "type": "add",
+          "date": "2020-09-25T11:50:37.396Z",
+          "friend": "Jonathan Hills"
+        },
+        {
+          "id": 15,
+          "type": "like",
+          "date": "2020-07-11T07:14:28.628Z",
+          "postTitle": "dynamic"
+        },
+        {
+          "id": 18,
+          "type": "like",
+          "date": "2021-02-09T05:12:23.256Z",
+          "postTitle": "Avon"
+        },
+        {
+          "id": 21,
+          "type": "add",
+          "date": "2020-07-06T12:20:33.206Z",
+          "friend": "Ken Mosciski"
+        },
+        {
+          "id": 21,
+          "type": "like",
+          "date": "2020-10-24T20:14:55.131Z",
+          "postTitle": "driver"
+        },
+        {
+          "id": 22,
+          "type": "upload",
+          "date": "2020-11-10T22:16:15.317Z",
+          "uploadImage": "http://placeimg.com/640/480/city"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "fullName": "Loren Lehner",
+      "connected": "2020-07-09T09:11:39.389Z",
+      "avatar": "https://cdn.fakercloud.com/avatars/robturlinckx_128.jpg",
+      "newsFeed": [
+        {
+          "id": 3,
+          "type": "like",
+          "date": "2021-01-07T07:56:16.857Z",
+          "postTitle": "maroon"
+        },
+        {
+          "id": 6,
+          "type": "like",
+          "date": "2020-12-29T20:59:37.356Z",
+          "postTitle": "Function-based"
+        },
+        {
+          "id": 7,
+          "type": "add",
+          "date": "2020-05-04T21:03:41.771Z",
+          "friend": "Kristina Kuphal"
+        },
+        {
+          "id": 9,
+          "type": "like",
+          "date": "2021-02-24T05:47:07.211Z",
+          "postTitle": "systemic"
+        },
+        {
+          "id": 11,
+          "type": "upload",
+          "date": "2020-05-18T20:45:28.246Z",
+          "uploadImage": "http://placeimg.com/640/480/city"
+        },
+        {
+          "id": 12,
+          "type": "like",
+          "date": "2020-05-24T09:35:54.776Z",
+          "postTitle": "Granite"
+        },
+        {
+          "id": 14,
+          "type": "add",
+          "date": "2020-09-02T12:22:49.194Z",
+          "friend": "Sheryl Lockman"
+        },
+        {
+          "id": 15,
+          "type": "like",
+          "date": "2020-08-09T18:03:52.897Z",
+          "postTitle": "Programmable"
+        },
+        {
+          "id": 18,
+          "type": "like",
+          "date": "2020-04-03T12:03:48.185Z",
+          "postTitle": "Liechtenstein"
+        },
+        {
+          "id": 21,
+          "type": "add",
+          "date": "2020-09-28T19:51:42.518Z",
+          "friend": "Elvira Schowalter"
+        },
+        {
+          "id": 21,
+          "type": "like",
+          "date": "2020-07-25T17:53:07.142Z",
+          "postTitle": "International"
+        },
+        {
+          "id": 22,
+          "type": "upload",
+          "date": "2021-03-31T15:22:30.206Z",
+          "uploadImage": "http://placeimg.com/640/480/city"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "fullName": "Ray Thiel",
+      "connected": "2020-04-07T13:56:30.478Z",
+      "avatar": "https://cdn.fakercloud.com/avatars/hermanobrother_128.jpg",
+      "newsFeed": [
+        {
+          "id": 3,
+          "type": "like",
+          "date": "2020-10-18T17:05:30.126Z",
+          "postTitle": "Lead"
+        },
+        {
+          "id": 6,
+          "type": "like",
+          "date": "2021-01-21T16:09:23.938Z",
+          "postTitle": "Integration"
+        },
+        {
+          "id": 7,
+          "type": "add",
+          "date": "2020-08-18T12:19:59.470Z",
+          "friend": "Darryl Zieme"
+        },
+        {
+          "id": 9,
+          "type": "like",
+          "date": "2020-05-24T03:39:09.937Z",
+          "postTitle": "input"
+        },
+        {
+          "id": 11,
+          "type": "upload",
+          "date": "2020-12-26T11:18:22.580Z",
+          "uploadImage": "http://placeimg.com/640/480/city"
+        },
+        {
+          "id": 12,
+          "type": "like",
+          "date": "2020-08-02T23:42:06.430Z",
+          "postTitle": "Clothing"
+        },
+        {
+          "id": 14,
+          "type": "add",
+          "date": "2020-05-23T04:31:30.469Z",
+          "friend": "Faye McDermott"
+        },
+        {
+          "id": 15,
+          "type": "like",
+          "date": "2021-02-25T07:49:18.956Z",
+          "postTitle": "black"
+        },
+        {
+          "id": 18,
+          "type": "like",
+          "date": "2020-06-30T02:31:06.642Z",
+          "postTitle": "Pants"
+        },
+        {
+          "id": 21,
+          "type": "add",
+          "date": "2021-02-14T08:58:46.723Z",
+          "friend": "Angel Koss"
+        },
+        {
+          "id": 21,
+          "type": "like",
+          "date": "2020-08-30T23:04:41.390Z",
+          "postTitle": "SAS"
+        },
+        {
+          "id": 22,
+          "type": "upload",
+          "date": "2020-07-27T02:57:01.767Z",
+          "uploadImage": "http://placeimg.com/640/480/city"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "fullName": "Silvia Thiel",
+      "connected": "2021-02-17T21:40:17.475Z",
+      "avatar": "https://cdn.fakercloud.com/avatars/vj_demien_128.jpg",
+      "newsFeed": [
+        {
+          "id": 3,
+          "type": "like",
+          "date": "2020-09-23T01:56:31.505Z",
+          "postTitle": "Mouse"
+        },
+        {
+          "id": 6,
+          "type": "like",
+          "date": "2021-02-13T14:37:23.419Z",
+          "postTitle": "defect"
+        },
+        {
+          "id": 7,
+          "type": "add",
+          "date": "2020-04-01T04:01:59.235Z",
+          "friend": "Cedric Ward"
+        },
+        {
+          "id": 9,
+          "type": "like",
+          "date": "2020-11-25T00:42:44.722Z",
+          "postTitle": "Senior"
+        },
+        {
+          "id": 11,
+          "type": "upload",
+          "date": "2020-10-23T09:55:31.270Z",
+          "uploadImage": "http://placeimg.com/640/480/city"
+        },
+        {
+          "id": 12,
+          "type": "like",
+          "date": "2021-03-28T05:43:56.019Z",
+          "postTitle": "Connecticut"
+        },
+        {
+          "id": 14,
+          "type": "add",
+          "date": "2020-12-22T11:22:21.339Z",
+          "friend": "Julia Russel"
+        },
+        {
+          "id": 15,
+          "type": "like",
+          "date": "2021-02-23T10:44:54.866Z",
+          "postTitle": "transmit"
+        },
+        {
+          "id": 18,
+          "type": "like",
+          "date": "2021-02-11T21:21:25.103Z",
+          "postTitle": "SAS"
+        },
+        {
+          "id": 21,
+          "type": "add",
+          "date": "2020-04-12T04:39:14.015Z",
+          "friend": "Courtney Torphy"
+        },
+        {
+          "id": 21,
+          "type": "like",
+          "date": "2020-12-29T03:09:25.270Z",
+          "postTitle": "Man"
+        },
+        {
+          "id": 22,
+          "type": "upload",
+          "date": "2020-12-31T16:12:55.743Z",
+          "uploadImage": "http://placeimg.com/640/480/city"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "fullName": "Lester Ortiz",
+      "connected": "2020-10-25T07:15:27.021Z",
+      "avatar": "https://cdn.fakercloud.com/avatars/ipavelek_128.jpg",
+      "newsFeed": [
+        {
+          "id": 3,
+          "type": "like",
+          "date": "2020-10-10T19:44:25.646Z",
+          "postTitle": "feed"
+        },
+        {
+          "id": 6,
+          "type": "like",
+          "date": "2020-10-01T22:15:35.942Z",
+          "postTitle": "Checking"
+        },
+        {
+          "id": 7,
+          "type": "add",
+          "date": "2020-10-05T13:53:47.555Z",
+          "friend": "Dwight Zboncak"
+        },
+        {
+          "id": 9,
+          "type": "like",
+          "date": "2020-09-10T01:42:51.077Z",
+          "postTitle": "vortals"
+        },
+        {
+          "id": 11,
+          "type": "upload",
+          "date": "2020-04-24T21:43:07.969Z",
+          "uploadImage": "http://placeimg.com/640/480/city"
+        },
+        {
+          "id": 12,
+          "type": "like",
+          "date": "2020-10-12T15:40:38.139Z",
+          "postTitle": "Generic"
+        },
+        {
+          "id": 14,
+          "type": "add",
+          "date": "2020-11-04T11:19:40.838Z",
+          "friend": "Miss Alvin White"
+        },
+        {
+          "id": 15,
+          "type": "like",
+          "date": "2021-03-30T16:14:37.678Z",
+          "postTitle": "Granite"
+        },
+        {
+          "id": 18,
+          "type": "like",
+          "date": "2020-11-29T10:41:49.124Z",
+          "postTitle": "payment"
+        },
+        {
+          "id": 21,
+          "type": "add",
+          "date": "2020-12-03T13:49:50.153Z",
+          "friend": "Javier Marvin"
+        },
+        {
+          "id": 21,
+          "type": "like",
+          "date": "2020-12-27T12:08:09.257Z",
+          "postTitle": "Handmade"
+        },
+        {
+          "id": 22,
+          "type": "upload",
+          "date": "2020-05-21T14:19:53.320Z",
+          "uploadImage": "http://placeimg.com/640/480/city"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "fullName": "Bradley Bartoletti",
+      "connected": "2020-10-30T07:23:25.753Z",
+      "avatar": "https://cdn.fakercloud.com/avatars/allagringaus_128.jpg",
+      "newsFeed": [
+        {
+          "id": 3,
+          "type": "like",
+          "date": "2020-10-29T22:01:47.971Z",
+          "postTitle": "primary"
+        },
+        {
+          "id": 6,
+          "type": "like",
+          "date": "2021-02-25T16:12:22.090Z",
+          "postTitle": "backing"
+        },
+        {
+          "id": 7,
+          "type": "add",
+          "date": "2020-07-04T22:09:18.517Z",
+          "friend": "Jermaine Nitzsche"
+        },
+        {
+          "id": 9,
+          "type": "like",
+          "date": "2020-12-20T01:21:28.591Z",
+          "postTitle": "Tactics"
+        },
+        {
+          "id": 11,
+          "type": "upload",
+          "date": "2020-12-27T15:01:40.291Z",
+          "uploadImage": "http://placeimg.com/640/480/city"
+        },
+        {
+          "id": 12,
+          "type": "like",
+          "date": "2020-08-05T12:13:43.729Z",
+          "postTitle": "synthesize"
+        },
+        {
+          "id": 14,
+          "type": "add",
+          "date": "2020-08-27T19:48:18.477Z",
+          "friend": "Henry Crona"
+        },
+        {
+          "id": 15,
+          "type": "like",
+          "date": "2020-06-25T20:33:35.930Z",
+          "postTitle": "Brand"
+        },
+        {
+          "id": 18,
+          "type": "like",
+          "date": "2020-06-30T08:28:43.298Z",
+          "postTitle": "Computers"
+        },
+        {
+          "id": 21,
+          "type": "add",
+          "date": "2020-09-05T09:04:33.614Z",
+          "friend": "Brandon Reichert MD"
+        },
+        {
+          "id": 21,
+          "type": "like",
+          "date": "2021-01-16T21:28:14.668Z",
+          "postTitle": "Kroon"
+        },
+        {
+          "id": 22,
+          "type": "upload",
+          "date": "2020-05-25T18:18:20.072Z",
+          "uploadImage": "http://placeimg.com/640/480/city"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "fullName": "Inez Stokes",
+      "connected": "2020-04-28T08:11:14.575Z",
+      "avatar": "https://cdn.fakercloud.com/avatars/psdesignuk_128.jpg",
+      "newsFeed": [
+        {
+          "id": 3,
+          "type": "like",
+          "date": "2020-09-06T06:00:43.544Z",
+          "postTitle": "Points"
+        },
+        {
+          "id": 6,
+          "type": "like",
+          "date": "2021-02-06T03:39:34.076Z",
+          "postTitle": "calculate"
+        },
+        {
+          "id": 7,
+          "type": "add",
+          "date": "2021-03-27T16:00:48.580Z",
+          "friend": "Aaron Davis"
+        },
+        {
+          "id": 9,
+          "type": "like",
+          "date": "2020-11-28T17:13:21.626Z",
+          "postTitle": "copying"
+        },
+        {
+          "id": 11,
+          "type": "upload",
+          "date": "2020-10-17T22:31:52.686Z",
+          "uploadImage": "http://placeimg.com/640/480/city"
+        },
+        {
+          "id": 12,
+          "type": "like",
+          "date": "2021-03-01T05:04:31.629Z",
+          "postTitle": "Customer-focused"
+        },
+        {
+          "id": 14,
+          "type": "add",
+          "date": "2021-03-07T13:33:45.477Z",
+          "friend": "Belinda Ferry"
+        },
+        {
+          "id": 15,
+          "type": "like",
+          "date": "2020-07-05T09:59:32.596Z",
+          "postTitle": "compress"
+        },
+        {
+          "id": 18,
+          "type": "like",
+          "date": "2021-03-17T11:21:32.753Z",
+          "postTitle": "Benin"
+        },
+        {
+          "id": 21,
+          "type": "add",
+          "date": "2020-09-11T10:09:43.774Z",
+          "friend": "Wendy Armstrong Jr."
+        },
+        {
+          "id": 21,
+          "type": "like",
+          "date": "2020-09-18T17:53:46.563Z",
+          "postTitle": "Avon"
+        },
+        {
+          "id": 22,
+          "type": "upload",
+          "date": "2020-05-21T00:52:20.550Z",
+          "uploadImage": "http://placeimg.com/640/480/city"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "fullName": "Miss Jacqueline King",
+      "connected": "2020-05-03T22:42:04.556Z",
+      "avatar": "https://cdn.fakercloud.com/avatars/oaktreemedia_128.jpg",
+      "newsFeed": [
+        {
+          "id": 3,
+          "type": "like",
+          "date": "2020-05-29T19:16:29.271Z",
+          "postTitle": "Usability"
+        },
+        {
+          "id": 6,
+          "type": "like",
+          "date": "2020-05-12T04:18:37.437Z",
+          "postTitle": "metrics"
+        },
+        {
+          "id": 7,
+          "type": "add",
+          "date": "2020-11-24T20:51:18.645Z",
+          "friend": "Jorge Cormier"
+        },
+        {
+          "id": 9,
+          "type": "like",
+          "date": "2020-12-02T22:46:40.130Z",
+          "postTitle": "Territory"
+        },
+        {
+          "id": 11,
+          "type": "upload",
+          "date": "2020-11-05T16:12:53.514Z",
+          "uploadImage": "http://placeimg.com/640/480/city"
+        },
+        {
+          "id": 12,
+          "type": "like",
+          "date": "2021-03-02T03:39:00.091Z",
+          "postTitle": "generate"
+        },
+        {
+          "id": 14,
+          "type": "add",
+          "date": "2020-06-01T01:13:43.802Z",
+          "friend": "Clark Greenholt"
+        },
+        {
+          "id": 15,
+          "type": "like",
+          "date": "2020-06-22T09:43:26.227Z",
+          "postTitle": "GB"
+        },
+        {
+          "id": 18,
+          "type": "like",
+          "date": "2021-03-29T10:36:29.692Z",
+          "postTitle": "Cliffs"
+        },
+        {
+          "id": 21,
+          "type": "add",
+          "date": "2020-10-31T21:02:34.023Z",
+          "friend": "Erick Kris"
+        },
+        {
+          "id": 21,
+          "type": "like",
+          "date": "2020-10-11T13:01:03.900Z",
+          "postTitle": "Producer"
+        },
+        {
+          "id": 22,
+          "type": "upload",
+          "date": "2020-10-03T05:44:53.355Z",
+          "uploadImage": "http://placeimg.com/640/480/city"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "fullName": "Ted Kuvalis",
+      "connected": "2020-05-21T17:41:52.171Z",
+      "avatar": "https://cdn.fakercloud.com/avatars/antjanus_128.jpg",
+      "newsFeed": [
+        {
+          "id": 3,
+          "type": "like",
+          "date": "2020-10-29T13:13:24.233Z",
+          "postTitle": "object-oriented"
+        },
+        {
+          "id": 6,
+          "type": "like",
+          "date": "2021-02-28T04:01:34.858Z",
+          "postTitle": "Wisconsin"
+        },
+        {
+          "id": 7,
+          "type": "add",
+          "date": "2020-09-21T21:50:01.473Z",
+          "friend": "Ebony Yundt"
+        },
+        {
+          "id": 9,
+          "type": "like",
+          "date": "2020-06-06T06:11:29.670Z",
+          "postTitle": "Directives"
+        },
+        {
+          "id": 11,
+          "type": "upload",
+          "date": "2020-10-15T14:08:47.116Z",
+          "uploadImage": "http://placeimg.com/640/480/city"
+        },
+        {
+          "id": 12,
+          "type": "like",
+          "date": "2020-06-25T14:16:36.744Z",
+          "postTitle": "Chair"
+        },
+        {
+          "id": 14,
+          "type": "add",
+          "date": "2021-03-23T05:26:15.766Z",
+          "friend": "Geoffrey O'Connell"
+        },
+        {
+          "id": 15,
+          "type": "like",
+          "date": "2021-03-07T10:14:35.467Z",
+          "postTitle": "Specialist"
+        },
+        {
+          "id": 18,
+          "type": "like",
+          "date": "2020-10-19T20:53:58.897Z",
+          "postTitle": "Pine"
+        },
+        {
+          "id": 21,
+          "type": "add",
+          "date": "2020-07-02T15:32:41.705Z",
+          "friend": "Terry Harvey"
+        },
+        {
+          "id": 21,
+          "type": "like",
+          "date": "2020-08-05T19:52:30.483Z",
+          "postTitle": "Cedi"
+        },
+        {
+          "id": 22,
+          "type": "upload",
+          "date": "2020-11-25T02:05:42.808Z",
+          "uploadImage": "http://placeimg.com/640/480/city"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "fullName": "Gwen Zieme",
+      "connected": "2020-12-02T00:00:25.219Z",
+      "avatar": "https://cdn.fakercloud.com/avatars/fran_mchamy_128.jpg",
+      "newsFeed": [
+        {
+          "id": 3,
+          "type": "like",
+          "date": "2020-04-16T01:30:09.633Z",
+          "postTitle": "RAM"
+        },
+        {
+          "id": 6,
+          "type": "like",
+          "date": "2020-11-23T02:02:20.169Z",
+          "postTitle": "payment"
+        },
+        {
+          "id": 7,
+          "type": "add",
+          "date": "2020-10-20T09:18:37.840Z",
+          "friend": "Rosalie Shanahan"
+        },
+        {
+          "id": 9,
+          "type": "like",
+          "date": "2020-12-26T11:31:05.104Z",
+          "postTitle": "eyeballs"
+        },
+        {
+          "id": 11,
+          "type": "upload",
+          "date": "2020-12-16T06:20:55.923Z",
+          "uploadImage": "http://placeimg.com/640/480/city"
+        },
+        {
+          "id": 12,
+          "type": "like",
+          "date": "2020-06-08T00:10:29.611Z",
+          "postTitle": "transmitter"
+        },
+        {
+          "id": 14,
+          "type": "add",
+          "date": "2020-04-27T12:25:16.293Z",
+          "friend": "Vivian Parker"
+        },
+        {
+          "id": 15,
+          "type": "like",
+          "date": "2021-03-09T15:54:04.403Z",
+          "postTitle": "invoice"
+        },
+        {
+          "id": 18,
+          "type": "like",
+          "date": "2020-12-21T16:53:39.120Z",
+          "postTitle": "bluetooth"
+        },
+        {
+          "id": 21,
+          "type": "add",
+          "date": "2021-03-20T20:44:57.515Z",
+          "friend": "Nicolas McKenzie"
+        },
+        {
+          "id": 21,
+          "type": "like",
+          "date": "2021-01-18T21:24:22.907Z",
+          "postTitle": "SDD"
+        },
+        {
+          "id": 22,
+          "type": "upload",
+          "date": "2020-05-14T05:10:26.271Z",
+          "uploadImage": "http://placeimg.com/640/480/city"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "fullName": "Tracy Pollich",
+      "connected": "2020-09-11T03:26:57.581Z",
+      "avatar": "https://cdn.fakercloud.com/avatars/cemshid_128.jpg",
+      "newsFeed": [
+        {
+          "id": 3,
+          "type": "like",
+          "date": "2021-03-25T13:06:19.402Z",
+          "postTitle": "e-tailers"
+        },
+        {
+          "id": 6,
+          "type": "like",
+          "date": "2020-09-16T20:57:54.226Z",
+          "postTitle": "1080p"
+        },
+        {
+          "id": 7,
+          "type": "add",
+          "date": "2020-10-29T02:41:57.954Z",
+          "friend": "Dr. Ray Lynch"
+        },
+        {
+          "id": 9,
+          "type": "like",
+          "date": "2020-10-25T23:10:21.774Z",
+          "postTitle": "invoice"
+        },
+        {
+          "id": 11,
+          "type": "upload",
+          "date": "2020-11-02T13:26:35.604Z",
+          "uploadImage": "http://placeimg.com/640/480/city"
+        },
+        {
+          "id": 12,
+          "type": "like",
+          "date": "2020-11-20T23:35:02.152Z",
+          "postTitle": "International"
+        },
+        {
+          "id": 14,
+          "type": "add",
+          "date": "2020-09-03T00:58:21.235Z",
+          "friend": "Colin VonRueden"
+        },
+        {
+          "id": 15,
+          "type": "like",
+          "date": "2020-09-13T00:50:37.792Z",
+          "postTitle": "Oregon"
+        },
+        {
+          "id": 18,
+          "type": "like",
+          "date": "2020-10-02T08:05:17.394Z",
+          "postTitle": "Arizona"
+        },
+        {
+          "id": 21,
+          "type": "add",
+          "date": "2021-02-11T00:01:53.042Z",
+          "friend": "Gilbert Mertz"
+        },
+        {
+          "id": 21,
+          "type": "like",
+          "date": "2020-09-30T15:27:12.544Z",
+          "postTitle": "SCSI"
+        },
+        {
+          "id": 22,
+          "type": "upload",
+          "date": "2020-05-28T14:38:46.566Z",
+          "uploadImage": "http://placeimg.com/640/480/city"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "fullName": "Rita Doyle",
+      "connected": "2020-09-03T17:54:56.743Z",
+      "avatar": "https://cdn.fakercloud.com/avatars/newbrushes_128.jpg",
+      "newsFeed": [
+        {
+          "id": 3,
+          "type": "like",
+          "date": "2020-10-21T10:49:49.822Z",
+          "postTitle": "digital"
+        },
+        {
+          "id": 6,
+          "type": "like",
+          "date": "2021-03-30T07:55:32.092Z",
+          "postTitle": "hacking"
+        },
+        {
+          "id": 7,
+          "type": "add",
+          "date": "2021-03-26T04:56:40.726Z",
+          "friend": "Bennie Koepp"
+        },
+        {
+          "id": 9,
+          "type": "like",
+          "date": "2020-09-03T20:43:36.557Z",
+          "postTitle": "North"
+        },
+        {
+          "id": 11,
+          "type": "upload",
+          "date": "2020-09-11T17:19:22.944Z",
+          "uploadImage": "http://placeimg.com/640/480/city"
+        },
+        {
+          "id": 12,
+          "type": "like",
+          "date": "2020-11-30T10:27:00.207Z",
+          "postTitle": "Tactics"
+        },
+        {
+          "id": 14,
+          "type": "add",
+          "date": "2020-04-08T07:02:45.270Z",
+          "friend": "Betsy Mueller"
+        },
+        {
+          "id": 15,
+          "type": "like",
+          "date": "2020-10-08T15:42:28.986Z",
+          "postTitle": "matrices"
+        },
+        {
+          "id": 18,
+          "type": "like",
+          "date": "2020-09-17T14:36:16.317Z",
+          "postTitle": "Steel"
+        },
+        {
+          "id": 21,
+          "type": "add",
+          "date": "2021-01-05T16:54:03.617Z",
+          "friend": "Clifford Kunde"
+        },
+        {
+          "id": 21,
+          "type": "like",
+          "date": "2020-06-27T14:01:42.128Z",
+          "postTitle": "system"
+        },
+        {
+          "id": 22,
+          "type": "upload",
+          "date": "2021-03-12T05:59:55.324Z",
+          "uploadImage": "http://placeimg.com/640/480/city"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "fullName": "Roxanne Haag",
+      "connected": "2020-08-28T19:26:12.472Z",
+      "avatar": "https://cdn.fakercloud.com/avatars/leeiio_128.jpg",
+      "newsFeed": [
+        {
+          "id": 3,
+          "type": "like",
+          "date": "2021-01-03T01:05:19.024Z",
+          "postTitle": "blue"
+        },
+        {
+          "id": 6,
+          "type": "like",
+          "date": "2020-09-09T06:01:07.392Z",
+          "postTitle": "generating"
+        },
+        {
+          "id": 7,
+          "type": "add",
+          "date": "2020-12-29T04:46:28.411Z",
+          "friend": "Annette Deckow"
+        },
+        {
+          "id": 9,
+          "type": "like",
+          "date": "2021-02-23T13:45:15.095Z",
+          "postTitle": "back-end"
+        },
+        {
+          "id": 11,
+          "type": "upload",
+          "date": "2020-08-31T20:23:26.088Z",
+          "uploadImage": "http://placeimg.com/640/480/city"
+        },
+        {
+          "id": 12,
+          "type": "like",
+          "date": "2021-01-29T05:35:06.098Z",
+          "postTitle": "Officer"
+        },
+        {
+          "id": 14,
+          "type": "add",
+          "date": "2020-11-23T16:07:53.102Z",
+          "friend": "Kathy Grady"
+        },
+        {
+          "id": 15,
+          "type": "like",
+          "date": "2020-07-19T11:30:21.459Z",
+          "postTitle": "strategic"
+        },
+        {
+          "id": 18,
+          "type": "like",
+          "date": "2020-12-13T17:50:05.860Z",
+          "postTitle": "optical"
+        },
+        {
+          "id": 21,
+          "type": "add",
+          "date": "2020-05-03T13:13:44.807Z",
+          "friend": "Max Abshire"
+        },
+        {
+          "id": 21,
+          "type": "like",
+          "date": "2020-07-09T14:59:14.912Z",
+          "postTitle": "real-time"
+        },
+        {
+          "id": 22,
+          "type": "upload",
+          "date": "2020-08-11T07:36:53.418Z",
+          "uploadImage": "http://placeimg.com/640/480/city"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "fullName": "Laurence Kutch",
+      "connected": "2020-09-18T02:04:04.721Z",
+      "avatar": "https://cdn.fakercloud.com/avatars/maikelk_128.jpg",
+      "newsFeed": [
+        {
+          "id": 3,
+          "type": "like",
+          "date": "2021-02-19T17:04:23.014Z",
+          "postTitle": "multi-tasking"
+        },
+        {
+          "id": 6,
+          "type": "like",
+          "date": "2020-10-31T05:18:29.732Z",
+          "postTitle": "THX"
+        },
+        {
+          "id": 7,
+          "type": "add",
+          "date": "2020-07-17T17:24:52.664Z",
+          "friend": "Abel Davis"
+        },
+        {
+          "id": 9,
+          "type": "like",
+          "date": "2020-12-06T13:23:06.129Z",
+          "postTitle": "Practical"
+        },
+        {
+          "id": 11,
+          "type": "upload",
+          "date": "2020-09-30T23:00:07.303Z",
+          "uploadImage": "http://placeimg.com/640/480/city"
+        },
+        {
+          "id": 12,
+          "type": "like",
+          "date": "2020-10-13T10:25:59.747Z",
+          "postTitle": "bi-directional"
+        },
+        {
+          "id": 14,
+          "type": "add",
+          "date": "2020-06-10T19:44:40.578Z",
+          "friend": "Kerry Bode"
+        },
+        {
+          "id": 15,
+          "type": "like",
+          "date": "2020-12-24T08:23:37.234Z",
+          "postTitle": "Synergistic"
+        },
+        {
+          "id": 18,
+          "type": "like",
+          "date": "2020-08-18T03:14:33.021Z",
+          "postTitle": "Colorado"
+        },
+        {
+          "id": 21,
+          "type": "add",
+          "date": "2020-11-21T04:29:44.687Z",
+          "friend": "Johanna Lang"
+        },
+        {
+          "id": 21,
+          "type": "like",
+          "date": "2020-04-11T06:25:41.329Z",
+          "postTitle": "deposit"
+        },
+        {
+          "id": 22,
+          "type": "upload",
+          "date": "2021-02-27T05:26:37.012Z",
+          "uploadImage": "http://placeimg.com/640/480/city"
+        }
+      ]
+    }
+  ],
+  "newsFeed": []
+}
